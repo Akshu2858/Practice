@@ -1,4 +1,4 @@
 # Practice
 My first github repo
 <br>
-Author: Akshay S
+Author: Akshay S (apna college)
